@@ -19,7 +19,8 @@ local fuses = '!printf user#id' .. msg.from.id
  else
 
 
-                 local sends0 = send_msg('chat#117729094', fuse, ok_cb, false)
+                 local sends0 = send_msg('chat#ایدی چت', fuse, ok_cb, false)
+                 --مثال--local sends0 = send_msg('chat#12345678', fuse, ok_cb, false)
 
  return 'نظر شما برا تیم ما ارسال شد\n\nبا تشکر😜!'
 
