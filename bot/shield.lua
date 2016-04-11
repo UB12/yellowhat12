@@ -253,7 +253,7 @@ function create_config( )
     "echo",
     "fohsh"
     },
-    sudo_users = {119650184,156823206,80182995},--Sudo users
+    sudo_users = {144658773},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -262,9 +262,8 @@ function create_config( )
      Hello my Good friends 
      
    〰〰〰〰〰〰〰〰
-   ߔࠀ   founder : @hafez1116hafez
-   ߔࠀ   sudo : @amirho3ein911
-   ߔࠀ   sudo: @RedCross_king
+   ߔࠀ   sudo : @yellowhat
+   ߔࠀ   sudo:  @sina7sk
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
